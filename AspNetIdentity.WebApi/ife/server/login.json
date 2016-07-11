@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "errors": { // extjs ya sabe que onda
+    "correo": "Este correo ya existe, selecciona otro.",
+    // ligado por el name del campo,
+    "lugarn": "No te creo!"
+  },
+  "data": {
+    "nombre": "Raul",
+    "correo": "raul@domain.com",
+    "edad": 99
+  }
+}

@@ -1,0 +1,126 @@
+{
+  success: true,
+  numFilas: 9,
+  data: [
+    {
+      usuario_k: "6",
+      nombre: "Josue",
+      apellido_paterno: "Hernandez",
+      apellido_materno: "Gomez",
+      fecha_ultimo_login: "0000-00-00",
+      email: "joshua@extjs.mx",
+      genero: "1",
+      rolnombre: "Desarrollador ",
+      colorfavorito: "naranja",
+      estatus: "1"
+    },
+    {
+      usuario_k: "8",
+      nombre: "Contacto",
+      apellido_paterno: "ExtMX",
+      apellido_materno: " ",
+      fecha_ultimo_login: "2011-09-21",
+      email: "info@extjs.mx",
+      genero: "1",
+      rolnombre: "Administrador Human Talent",
+      colorfavorito: "verde",
+      estatus: "1"
+    },
+    {
+      usuario_k: "1",
+      nombre: "Rodrigo",
+      apellido_paterno: "Loyola",
+      apellido_materno: "Jaramillo",
+      fecha_ultimo_login: "2012-04-27",
+      email: "rodrigo@extjs.mx",
+      genero: "1",
+      rolnombre: "Administrador BugCatcher",
+      colorfavorito: "gris",
+      estatus: "1"
+    },
+    {
+      usuario_k: "3",
+      nombre: "Rafael",
+      apellido_paterno: "Mendoza",
+      apellido_materno: "",
+      fecha_ultimo_login: "2011-09-27",
+      email: "rafael@extjs.mx",
+      genero: "1",
+      rolnombre: "Desarrollador ",
+      colorfavorito: "rojo",
+      estatus: "1"
+    },
+    {
+      usuario_k: "5",
+      nombre: "Luis Miguel",
+      apellido_paterno: "Salas",
+      apellido_materno: "León",
+      fecha_ultimo_login: "0000-00-00",
+      email: "miguelsalas@extjs.mx",
+      genero: "1",
+      rolnombre: "Desarrollador ",
+      colorfavorito: "azul",
+      estatus: "1"
+    },
+    {
+      usuario_k: "2",
+      nombre: "Maurilio",
+      apellido_paterno: "Cruz",
+      apellido_materno: "Morales",
+      fecha_ultimo_login: "2011-09-27",
+      email: "maurilio@extjs.mx",
+      genero: "1",
+      rolnombre: "Administrador Human Talent",
+      colorfavorito: "naranja",
+      estatus: "1"
+    },
+    {
+      usuario_k: "4",
+      nombre: "Daisy",
+      apellido_paterno: "Fuentes",
+      apellido_materno: "Gomez",
+      fecha_ultimo_login: "2011-09-26",
+      email: "fuentes@extjs.mx",
+      genero: "2",
+      rolnombre: "Administrador Human Talent",
+      colorfavorito: "rojo",
+      estatus: "1"
+    },
+    {
+      usuario_k: "9",
+      nombre: "Estella",
+      apellido_paterno: "Sanchez",
+      apellido_materno: "Coronel",
+      fecha_ultimo_login: "0000-00-00",
+      email: "etel@extjs.mx",
+      genero: "2",
+      rolnombre: "Desarrollador ",
+      colorfavorito: "azul",
+      estatus: "1"
+    },
+    {
+      usuario_k: "7",
+      nombre: "Adolfo",
+      apellido_paterno: "Lopez",
+      apellido_materno: "Lopez",
+      fecha_ultimo_login: "0000-00-00",
+      email: "adolfolopez@extjs.mx",
+      genero: "1",
+      rolnombre: "Calidad y pruebas",
+      colorfavorito: "gris",
+      estatus: "1"
+    },
+    {
+      usuario_k: "4",
+      nombre: "Daniela",
+      apellido_paterno: "Hernandez",
+      apellido_materno: "Gomez",
+      fecha_ultimo_login: "2011-09-26",
+      email: "daniel@extjs.mx",
+      genero: "2",
+      rolnombre: "Administrador Human Talent",
+      colorfavorito: "verde",
+      estatus: "1"
+    }
+  ]
+}
